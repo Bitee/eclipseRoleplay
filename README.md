@@ -1,2 +1,0 @@
-# eclipseRoleplay
-SAMP Server
